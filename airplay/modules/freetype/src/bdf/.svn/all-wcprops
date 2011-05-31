@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/bdf
+END
+bdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/bdf/bdf.h
+END
+bdfdrivr.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/bdf/bdfdrivr.c
+END
+bdflib.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/bdf/bdflib.c
+END
+bdfdrivr.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/bdf/bdfdrivr.h
+END
+bdferror.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/bdf/bdferror.h
+END
+bdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/bdf/bdf.c
+END

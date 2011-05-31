@@ -1,0 +1,57 @@
+CtoeSimpleMenuStyleSheet
+{
+	name "menu"
+
+	bindto "SIMPLEMENU" "*" "*"
+	style
+	{
+		font "font"
+		fontSize 6 pt
+		fontColor {0,0,0,255}
+		shadowColor {0,0,0,64}
+		shadow-size 3 pt
+		shadow-offset 1 pt 1 pt
+		background
+		{
+			color {255,255,255,255}
+		}
+	}
+	bindto "BUTTON" "*" "*"
+	style
+	{
+		padding 4 pt
+		margin 3 pt
+		fontColor {255,255,255,255}
+		border 1 px
+		borderColor {50,70,150,255}
+		drop-shadow true
+		background
+		{
+			point {50,70,150,255} 0 %
+			point {90,110,170,255} 50 %
+			point {50,70,150,255} 50 %
+		}
+	}
+	bindto "BUTTON" "*" "FOCUS"
+	style
+	{
+		padding 4 pt
+		padding-top 5 pt
+		padding-bottom 3 pt
+		margin 3 pt
+		fontColor {255,255,255,255}
+		borderColor {204,123,59,255}
+		background
+		{
+			point {204,123,59,255} 0 %
+			point {214,149,98,255} 50 %
+			point {204,123,59,255} 50 %
+		}
+	}
+	bindto "*" "H2" "*"
+	style
+	{
+		font "fontbold"
+		#fontSize 12 pt
+	}
+}

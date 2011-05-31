@@ -1,0 +1,10 @@
+CIwResGroup
+{
+	name	"gr2"
+	shared	false
+
+	CtoeWorld
+	{
+		name "w"
+	}
+}

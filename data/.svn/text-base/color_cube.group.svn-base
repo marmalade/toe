@@ -1,0 +1,8 @@
+// Source file: 
+// Exported By: <Unknown> on 05/16/11 23:48:27
+
+CIwResGroup
+{
+	name "color_cube"
+	"./models/color_cube.geo"
+}

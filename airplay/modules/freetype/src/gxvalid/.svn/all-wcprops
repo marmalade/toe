@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid
+END
+gxvalid.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvalid.c
+END
+gxvalid.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvalid.h
+END
+gxvprop.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvprop.c
+END
+gxvmort.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvmort.c
+END
+gxvmorx.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvmorx.c
+END
+gxvjust.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvjust.c
+END
+gxvmort.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvmort.h
+END
+gxvmorx.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvmorx.h
+END
+gxverror.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxverror.h
+END
+gxvbsln.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvbsln.c
+END
+gxvmort0.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvmort0.c
+END
+gxvmort1.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvmort1.c
+END
+gxvmort2.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvmort2.c
+END
+gxvmort4.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvmort4.c
+END
+gxvmorx0.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvmorx0.c
+END
+gxvmorx1.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvmorx1.c
+END
+gxvmort5.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvmort5.c
+END
+gxvmorx2.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvmorx2.c
+END
+gxvcommn.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvcommn.c
+END
+gxvmorx4.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvmorx4.c
+END
+gxvmorx5.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvmorx5.c
+END
+gxvcommn.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvcommn.h
+END
+gxvfeat.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvfeat.c
+END
+gxvfgen.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvfgen.c
+END
+gxvmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvmod.c
+END
+gxvlcar.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvlcar.c
+END
+gxvopbd.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvopbd.c
+END
+gxvmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvmod.h
+END
+gxvfeat.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvfeat.h
+END
+gxvkern.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvkern.c
+END
+gxvtrak.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gxvalid/gxvtrak.c
+END

@@ -1,0 +1,38 @@
+CtoeSimpleMenuRoot
+{
+	name "mainmenu"
+
+	styleSheet "menu"
+
+	CtoeSimpleMenuItem
+	{
+		CtoeSimpleMenuButton
+		{
+			Text "Camera Demo"
+			onclick "toeOpenGroupWorld('./menu/camera.group')"
+		}
+		CtoeSimpleMenuButton
+		{
+			Text "Menu Demo"
+			onclick "
+			CtoeUtils.AssertMsg(tostring(self))
+			
+			-- b = CtoeSimpleMenuItem()
+			-- b:Test()
+			-- toeAssertMsg(tostring(b:GetRoot()))
+			"
+		}
+	}
+	CtoeSimpleMenuItem
+	{	
+		text "TOE Demo"
+	}
+	CtoeSimpleMenuItem
+	{	
+		CtoeSimpleMenuButton
+		{
+			text "Close"
+			onclick "toeExit()"
+		}
+	}
+}

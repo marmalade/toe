@@ -1,0 +1,27 @@
+includepaths
+{
+	"h"
+}
+files
+{
+	("src")
+	toeBox2DBody.cpp
+	toeBox2DBox.cpp
+	toeBox2DCircle.cpp
+	toeBox2DDraggable.cpp
+	toeBox2DWorld.cpp
+	toeBox2DSingleShape.cpp
+	TinyOpenEngine.Box2D.cpp
+	("h")
+	toeBox2DBody.h
+	toeBox2DBox.h
+	toeBox2DCircle.h
+	toeBox2DDraggable.h
+	toeBox2DWorld.h
+	toeBox2DSingleShape.h
+	TinyOpenEngine.Box2D.h
+}
+subprojects
+{
+	./TinyOpenEngine.mkf
+}

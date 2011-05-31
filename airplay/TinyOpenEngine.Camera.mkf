@@ -1,0 +1,18 @@
+includepaths
+{
+	"h"
+}
+files
+{
+	("src")
+	toeLiveCameraFeed.cpp
+	TinyOpenEngine.Camera.cpp
+
+	("h")
+	toeLiveCameraFeed.h
+	TinyOpenEngine.Camera.h
+}
+subprojects
+{
+	./TinyOpenEngine.mkf
+}

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/truetype
+END
+ttgload.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/truetype/ttgload.c
+END
+ttgxvar.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/truetype/ttgxvar.c
+END
+ttgload.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/truetype/ttgload.h
+END
+ttdriver.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/truetype/ttdriver.c
+END
+ttgxvar.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/truetype/ttgxvar.h
+END
+ttobjs.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/truetype/ttobjs.c
+END
+ttpload.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/truetype/ttpload.c
+END
+ttdriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/truetype/ttdriver.h
+END
+ttinterp.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/truetype/ttinterp.c
+END
+ttobjs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/truetype/ttobjs.h
+END
+ttpload.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/truetype/ttpload.h
+END
+ttinterp.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/truetype/ttinterp.h
+END
+truetype.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/truetype/truetype.c
+END
+ttpic.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/truetype/ttpic.c
+END
+ttpic.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/truetype/ttpic.h
+END
+tterrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/truetype/tterrors.h
+END

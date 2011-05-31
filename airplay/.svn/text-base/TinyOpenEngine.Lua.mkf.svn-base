@@ -1,0 +1,28 @@
+includepaths
+{
+	"h"
+}
+files
+{
+	[src]
+	("src")
+	TinyOpenEngine.Lua.cpp
+	toeLuaComponent.cpp 
+	toeLuaScript.cpp 
+	toeLuaState.cpp 
+	toeLuaBinding.cpp
+
+	[h]
+	("h")
+	TinyOpenEngine.Lua.h
+	toeLua.h
+	toeLuaComponent.h
+	toeLuaScript.h
+	toeLuaState.h
+}
+subprojects
+{
+	iwhttp
+	third_party/lua/lua.mkf 
+	./TinyOpenEngine.mkf
+}

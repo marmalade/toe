@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/cid
+END
+cidload.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/cid/cidload.c
+END
+cidparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/cid/cidparse.h
+END
+ciderrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/cid/ciderrs.h
+END
+type1cid.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/cid/type1cid.c
+END
+cidobjs.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/cid/cidobjs.h
+END
+cidload.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/cid/cidload.h
+END
+cidtoken.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/cid/cidtoken.h
+END
+cidgload.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/cid/cidgload.c
+END
+cidriver.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/cid/cidriver.c
+END
+cidparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/cid/cidparse.c
+END
+cidgload.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/cid/cidgload.h
+END
+cidriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/cid/cidriver.h
+END
+cidobjs.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/cid/cidobjs.c
+END

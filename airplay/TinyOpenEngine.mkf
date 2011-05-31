@@ -1,0 +1,63 @@
+includepaths
+{
+	"h"
+}
+files
+{
+	TinyOpenEngine.defines.txt
+
+	[src]
+	("src")
+	TinyOpenEngine.cpp
+	toeComponent.cpp
+	toeDefaultHitTest.cpp
+	toeCamera.cpp
+	toeCamera2D.cpp
+	toeCameraPerspective.cpp
+	toeDummy.cpp
+	toeEntity.cpp
+	toeEventArgs.cpp
+	toeFeatures.cpp
+	toeInput.cpp
+	toeIntrusiveList.cpp
+	toeSelfRenderedComponent.cpp
+	toeSubsystem.cpp
+	toeSubsystemItems.cpp
+	toeWorld.cpp
+	toeScriptingSubsystem.cpp
+	toeUtils.cpp
+	toeConfig.cpp
+	toeAccelerometer.cpp
+	toeCompass.cpp
+	toeLocation.cpp 
+	toeLoadingScreen.cpp
+
+	[h]
+	("h")
+	TinyOpenEngine.h
+	toeComponent.h
+	toeCamera.h
+	toeCamera2D.h
+	toeCameraPerspective.h
+	toeDummy.h
+	toeDefaultHitTest.h
+	toeEntity.h
+	toeEventArgs.h
+	toeFeatures.h
+	toeInput.h
+	toeIntrusiveList.h
+	toeSelfRenderedComponent.h
+	toeSubsystem.h
+	toeSubsystemItems.h
+	toeWorld.h
+	toeScriptingSubsystem.h
+	toeUtils.h
+	toeConfig.h
+	toeScriptingBinds.h 
+	toeLoadingScreen.h
+}
+subprojects
+{
+	iwutil
+	./modules/pugixml/pugixml.mkf
+}

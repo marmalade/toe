@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/lzw
+END
+ftzopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/lzw/ftzopen.c
+END
+ftlzw.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/lzw/ftlzw.c
+END
+ftzopen.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/lzw/ftzopen.h
+END

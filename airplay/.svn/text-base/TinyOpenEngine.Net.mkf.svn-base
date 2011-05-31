@@ -1,0 +1,19 @@
+includepaths
+{
+	"h"
+}
+files
+{
+	("src")
+	TinyOpenEngine.Net.cpp
+	toeNet.cpp
+
+	("h")
+	TinyOpenEngine.Net.h
+	toeNet.h
+}
+subprojects
+{
+	IwHTTP
+	./TinyOpenEngine.mkf
+}

@@ -1,0 +1,27 @@
+CtoeWorld
+{
+	name "mainmenu"
+
+	Ctoe2DScene
+	{
+		name "background"
+	}
+	CtoeLuaState
+	{
+		name "lua"
+	}
+	CtoeSimpleMenu
+	{
+		name "menu"
+		menulayout "mainmenu"
+		script "lua"
+	}
+	
+	update "menu"
+
+	pointerHandler "menu"
+	keyboardHandler "menu"
+
+	render "background"
+	render "menu"
+}

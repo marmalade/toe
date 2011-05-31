@@ -1,0 +1,19 @@
+// Source file: 
+CIwMaterial
+{
+	name "color_cube/cube_y"
+	colAmbient {0,255,0}
+	colDiffuse {0,255,0}
+}
+CIwMaterial
+{
+	name "color_cube/cube_z"
+	colAmbient {0,0,255}
+	colDiffuse {0,0,255}
+}
+CIwMaterial
+{
+	name "color_cube/cube_x"
+	colAmbient {255,0,0}
+	colDiffuse {255,0,0}
+}

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut
+END
+freeglut_input_devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_input_devices.c
+END
+freeglut_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_init.c
+END
+freeglut_stroke_roman.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_stroke_roman.c
+END
+freeglut_menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_menu.c
+END
+freeglut_display.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_display.c
+END
+freeglut_font.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_font.c
+END
+freeglut_window.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_window.c
+END
+freeglut_cursor.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_cursor.c
+END
+freeglut_gamemode.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_gamemode.c
+END
+freeglut_callbacks.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_callbacks.c
+END
+freeglut_state.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_state.c
+END
+freeglut_overlay.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_overlay.c
+END
+freeglut_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_internal.h
+END
+freeglut_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_main.c
+END
+freeglut_spaceball.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_spaceball.c
+END
+freeglut_videoresize.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_videoresize.c
+END
+freeglut_teapot_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_teapot_data.h
+END
+freeglut_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_misc.c
+END
+freeglut_geometry.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_geometry.c
+END
+freeglut_stroke_mono_roman.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_stroke_mono_roman.c
+END
+freeglut_teapot.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_teapot.c
+END
+freeglut_glutfont_definitions.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_glutfont_definitions.c
+END
+freeglut_joystick.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_joystick.c
+END
+freeglut_font_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_font_data.c
+END
+freeglut_ext.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_ext.c
+END
+freeglut_structure.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/freeglut_structure.c
+END

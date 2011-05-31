@@ -1,0 +1,126 @@
+#!/usr/bin/env i3d_make_build.py
+
+option 
+{
+	strict
+	s3e-data-dir="../data" 
+}
+defines 
+{ 
+	FT2_BUILD_LIBRARY
+	PUGIXML_NO_STL
+} 
+assets
+{
+	(../data)
+	./menu/font.ttf
+	./menu/fontbold.ttf
+	(../data-ram/data-gles1)
+	./menu/mainmenu.group.bin
+}
+
+files
+{
+	[Source]
+	(./sample)
+	main.cpp
+
+	[Data]
+	(../data)
+	mainmenu.toeworld
+	empty_group.group
+	world_group.group
+
+	[Data/menu]
+	(../data/menu)
+	menu.simplemenustyle
+	mainmenu.toeworld
+	mainmenu.simplemenu
+	mainmenu.lua 
+	mainmenu.group
+}
+deployments
+{
+	caption="TOE Demo"
+	long-caption="TOE Demo"
+	win32-pref-windowtitle="TOE Demo"
+	assets=Default
+	provider="www_101gr_com"
+	manufacturer="101gr.com"
+	copyright="101gr.com (c) 2011"
+	version="1.0.0"
+	networking=1
+
+	android-icon-hdpi="../content/icons/android-icon-hdpi.png"
+	android-icon-ldpi="../content/icons/android-icon-ldpi.png"
+	android-icon-mdpi="../content/icons/android-icon-mdpi.png"
+	android-icon="../content/icons/android-icon.png"
+	#android-keystore="../data/my-release-key.keystore"
+	#android-storepass=""
+	#android-keypass=""
+	#android-aliasname="101gr"
+	#android-manifest="../data/AndroidManifest.xml"
+
+	#bada-appid=
+	#bada-appsecret=
+	bada-icon="../content/icons/bada-icon.png"
+	bada-splash="../content/icons/bada-splash-800x480.png"
+	#bada-manifest="../data/bada_manifest.xml"
+	#bada-use-v11-broker=1
+
+	#inno-bmp="../content/icons/innosetup.bmp"
+	#inno-name="Drum Bum! Virtual Drum Kit"
+	#inno-icon="../content/icons/winmobile-icon.ico"
+	#inno-text="Drum Bum! Virtual Drum Kit"
+
+	iphone-appid=com.101gr.TOEDemo
+	iphone-icon-high-res="../content/icons/iphone-icon-high-res.PNG"
+	iphone-icon-ipad-search="../content/icons/iphone-icon-ipad-search.png"
+	iphone-icon-ipad="../content/icons/iphone-icon-ipad.png"
+	iphone-icon-settings-high-res="../content/icons/iphone-icon-settings-high-res.png"
+	iphone-icon-settings="../content/icons/iphone-icon-settings.png"
+	iphone-icon="../content/icons/iphone-icon.png"
+	iphone-splash="../content/icons/iphone-splash.png"
+	itunes-artwork="../content/icons/itunes-artwork.png"
+
+	win-icon="../content/icons/win-icon.bmp"
+	winmobile-icon="../content/icons/winmobile-icon.ico"
+	winmobile-png45="../content/icons/winmobile-png45.png"
+	winmobile-png60="../content/icons/winmobile-png60.png"
+	winmobile-png90="../content/icons/winmobile-png90.png"
+
+	webos-icon="../content/icons/webos-icon.png"
+	webos-appid="com.101gr.com.drumkit"
+
+	symbian-icon-svg="../content/icons/symbian-icon-svg.svg"
+	symbian-icon1="../content/icons/symbian-icon1.bmp"
+	symbian-icon1-mask="../content/icons/symbian-icon1-mask.bmp"
+	symbian-icon2="../content/icons/symbian-icon2.bmp"
+	symbian-icon2-mask="../content/icons/symbian-icon2-mask.bmp"
+
+	uiq3-icon1="../content/icons/uiq3-icon1.bmp"
+	uiq3-icon2="../content/icons/uiq3-icon2.bmp"
+	uiq3-icon3="../content/icons/uiq3-icon3.bmp"
+	uiq3-icon1-mask="../content/icons/uiq3-icon1-mask.bmp"
+	uiq3-icon2-mask="../content/icons/uiq3-icon2-mask.bmp"
+	uiq3-icon3-mask="../content/icons/uiq3-icon3-mask.bmp"
+
+}
+subprojects
+{
+	derbh
+	iwgraphics
+	iwgx
+	iwutil
+	TinyOpenEngine.mkf
+	TinyOpenEngine.ScreenSpace2D.mkf
+	TinyOpenEngine.Box2D.mkf
+	TinyOpenEngine.Camera.mkf
+	TinyOpenEngine.Geo.mkf
+	TinyOpenEngine.Lua.mkf
+	TinyOpenEngine.FreeType.mkf
+	TinyOpenEngine.SimpleMenu.mkf
+	TinyOpenEngine.Scene3D.mkf
+	#TinyOpenEngine.Ortho25D.mkf
+	modules/box2d/trunk/Box2D/Box2D.mkf
+}

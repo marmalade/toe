@@ -1,0 +1,22 @@
+includepaths
+{
+	"h"
+}
+files
+{
+	("src")
+	TinyOpenEngine.Scene3D.cpp
+	toe3DScene.cpp
+	toe3DModel.cpp
+	toe3DMarker.cpp
+
+	("h")
+	TinyOpenEngine.Scene3D.h
+	toe3DScene.h
+	toe3DModel.h
+	toe3DMarker.h
+}
+subprojects
+{
+	./TinyOpenEngine.mkf
+}

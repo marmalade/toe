@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base
+END
+ftsynth.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftsynth.c
+END
+ftstroke.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftstroke.c
+END
+ftfstype.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftfstype.c
+END
+ftpic.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftpic.c
+END
+ftbitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftbitmap.c
+END
+basepic.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/basepic.c
+END
+basepic.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/basepic.h
+END
+ftglyph.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftglyph.c
+END
+ftrfork.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftrfork.c
+END
+ftsnames.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftsnames.c
+END
+ftgasp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftgasp.c
+END
+ftbdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftbdf.c
+END
+ftdbgmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftdbgmem.c
+END
+ftcalc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftcalc.c
+END
+fttype1.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/fttype1.c
+END
+ftinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftinit.c
+END
+ftwinfnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftwinfnt.c
+END
+ftgloadr.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftgloadr.c
+END
+ftapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftapi.c
+END
+ftmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftmm.c
+END
+ftbase.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftbase.c
+END
+ftutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftutil.c
+END
+ftbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftbase.h
+END
+ftgxval.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftgxval.c
+END
+ftsystem.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftsystem.c
+END
+ftotval.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftotval.c
+END
+ftdebug.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftdebug.c
+END
+ftpfr.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftpfr.c
+END
+ftbbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftbbox.c
+END
+ftxf86.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftxf86.c
+END
+ftstream.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftstream.c
+END
+ftpatent.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftpatent.c
+END
+ftadvanc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftadvanc.c
+END
+ftlcdfil.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftlcdfil.c
+END
+ftobjs.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftobjs.c
+END
+ftcid.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftcid.c
+END
+ftmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftmac.c
+END
+ftoutln.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/ftoutln.c
+END
+fttrigon.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/base/fttrigon.c
+END

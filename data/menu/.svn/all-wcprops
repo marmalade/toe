@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/25/trunk/data/menu
+END
+menu.simplemenustyle
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/25/trunk/data/menu/menu.simplemenustyle
+END
+font.ttf
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/25/trunk/data/menu/font.ttf
+END
+fontbold.ttf
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/25/trunk/data/menu/fontbold.ttf
+END
+mainmenu.group
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/25/trunk/data/menu/mainmenu.group
+END
+mainmenu.simplemenu
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/25/trunk/data/menu/mainmenu.simplemenu
+END
+mainmenu.toeworld
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/25/trunk/data/menu/mainmenu.toeworld
+END
+compass.png
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/25/trunk/data/menu/compass.png
+END
+mainmenu.lua
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/25/trunk/data/menu/mainmenu.lua
+END

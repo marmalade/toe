@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/20/trunk/airplay/modules/pugixml/src
+END
+pugiconfig.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/20/trunk/airplay/modules/pugixml/src/pugiconfig.hpp
+END
+pugixml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/trunk/airplay/modules/pugixml/src/pugixml.cpp
+END
+pugixml.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/trunk/airplay/modules/pugixml/src/pugixml.hpp
+END

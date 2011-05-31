@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Dynamics
+END
+b2Island.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Dynamics/b2Island.cpp
+END
+b2ContactManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Dynamics/b2ContactManager.h
+END
+b2Fixture.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Dynamics/b2Fixture.h
+END
+b2WorldCallbacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Dynamics/b2WorldCallbacks.h
+END
+b2World.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Dynamics/b2World.h
+END
+b2Body.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Dynamics/b2Body.cpp
+END
+b2TimeStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Dynamics/b2TimeStep.h
+END
+b2Island.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Dynamics/b2Island.h
+END
+b2Body.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Dynamics/b2Body.h
+END
+b2Fixture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Dynamics/b2Fixture.cpp
+END
+b2ContactManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Dynamics/b2ContactManager.cpp
+END
+b2WorldCallbacks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Dynamics/b2WorldCallbacks.cpp
+END
+b2World.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Dynamics/b2World.cpp
+END

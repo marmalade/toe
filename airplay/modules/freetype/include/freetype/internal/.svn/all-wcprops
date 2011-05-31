@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal
+END
+ftvalid.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal/ftvalid.h
+END
+autohint.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal/autohint.h
+END
+ftcalc.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal/ftcalc.h
+END
+pcftypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal/pcftypes.h
+END
+psaux.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal/psaux.h
+END
+ftgloadr.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal/ftgloadr.h
+END
+ftmemory.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal/ftmemory.h
+END
+ftpic.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal/ftpic.h
+END
+t1types.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal/t1types.h
+END
+ftserv.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal/ftserv.h
+END
+sfnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal/sfnt.h
+END
+tttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal/tttypes.h
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal/internal.h
+END
+ftrfork.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal/ftrfork.h
+END
+ftdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal/ftdebug.h
+END
+ftdriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal/ftdriver.h
+END
+ftstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal/ftstream.h
+END
+ftobjs.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal/ftobjs.h
+END
+pshints.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal/pshints.h
+END
+fttrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/include/freetype/internal/fttrace.h
+END

@@ -1,0 +1,20 @@
+includepaths
+{
+	"h"
+}
+files
+{
+	("src")
+	TinyOpenEngine.Geo.cpp
+	toeGeoCompassRot.cpp
+	toeGeoGpsLocation.cpp
+
+	("h")
+	TinyOpenEngine.Geo.h
+	toeGeoCompassRot.h
+	toeGeoGpsLocation.h
+}
+subprojects
+{
+	./TinyOpenEngine.mkf
+}

@@ -1,0 +1,14 @@
+CIwResGroup
+{
+	name "mainmenu"
+
+	./font.ttf
+	./fontbold.ttf
+
+	./menu.simplemenustyle
+	./mainmenu.simplemenu
+	./mainmenu.lua
+	./mainmenu.toeworld
+
+
+}

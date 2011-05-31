@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/type42
+END
+t42drivr.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/type42/t42drivr.c
+END
+t42types.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/type42/t42types.h
+END
+t42parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/type42/t42parse.c
+END
+t42drivr.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/type42/t42drivr.h
+END
+t42objs.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/type42/t42objs.c
+END
+type42.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/type42/type42.c
+END
+t42error.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/type42/t42error.h
+END
+t42parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/type42/t42parse.h
+END
+t42objs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/type42/t42objs.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/GL
+END
+glut.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/GL/glut.h
+END
+freeglut_ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/GL/freeglut_ext.h
+END
+freeglut.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/GL/freeglut.h
+END
+freeglut_std.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/freeglut/GL/freeglut_std.h
+END

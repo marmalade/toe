@@ -1,0 +1,24 @@
+CIwResGroup
+{
+	name	"worldgroup"
+	shared	true
+	./keypoint.png
+	./red.png
+	./green.png
+	./blue.png
+	./tiles.png
+
+	./mainmenu.toeworld
+
+	#./empty_group.group
+	#./group2.group
+
+	#CtoeComponent
+	#{
+	#	name "w"
+	#}
+	#CtoeWorld
+	#{
+	#	name "aaa"
+	#}
+}

@@ -1,0 +1,35 @@
+# This file is for configuration settings for your
+# application.
+#
+# The syntax is similar to windows .ini files ie
+#
+# [GroupName]
+# Setting = Value
+#
+# Which can be read by your application using
+#  e.g s3eConfigGetString("GroupName", "Setting", string)
+#
+# All settings must be documented in .config.txt files.
+# New settings specific to this application should be
+# documented in app.config.txt
+#
+# Some conditional operations are also permitted, see the
+# S3E documentation for details.
+
+[s3e]
+MemSize=8388608
+
+[Util]
+#MemoryBreakpoint=346
+
+[Trace]
+#ALL=1
+
+[GX] 
+#Rasterisation=HW
+#Rasterisation=SW
+UseRGBLighting=1
+DataCacheSize=65536
+VertCacheSize=8192
+NumTPages=32
+NumTPagesNoMipMap=8

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/smooth
+END
+ftgrays.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/smooth/ftgrays.c
+END
+ftsmooth.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/smooth/ftsmooth.c
+END
+ftgrays.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/smooth/ftgrays.h
+END
+ftsmooth.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/smooth/ftsmooth.h
+END
+ftspic.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/smooth/ftspic.c
+END
+smooth.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/smooth/smooth.c
+END
+ftsmerrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/smooth/ftsmerrs.h
+END
+ftspic.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/smooth/ftspic.h
+END

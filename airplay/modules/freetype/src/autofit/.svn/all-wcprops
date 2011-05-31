@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit
+END
+aflatin2.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/aflatin2.c
+END
+afmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/afmodule.h
+END
+afhints.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/afhints.h
+END
+afindic.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/afindic.h
+END
+afdummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/afdummy.c
+END
+aflatin2.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/aflatin2.h
+END
+afdummy.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/afdummy.h
+END
+afglobal.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/afglobal.c
+END
+autofit.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/autofit.c
+END
+afglobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/afglobal.h
+END
+afloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/afloader.c
+END
+aflatin.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/aflatin.c
+END
+afcjk.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/afcjk.c
+END
+afwarp.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/afwarp.c
+END
+afangles.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/afangles.c
+END
+aftypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/aftypes.h
+END
+afpic.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/afpic.c
+END
+afloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/afloader.h
+END
+aflatin.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/aflatin.h
+END
+afcjk.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/afcjk.h
+END
+afwarp.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/afwarp.h
+END
+afangles.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/afangles.h
+END
+afpic.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/afpic.h
+END
+aferrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/aferrors.h
+END
+afmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/afmodule.c
+END
+afhints.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/afhints.c
+END
+afindic.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/autofit/afindic.c
+END

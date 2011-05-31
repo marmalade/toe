@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gzip
+END
+infcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gzip/infcodes.h
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gzip/inffixed.h
+END
+ftgzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gzip/ftgzip.c
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gzip/zlib.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gzip/zutil.c
+END
+infutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gzip/infutil.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gzip/zutil.h
+END
+infutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gzip/infutil.h
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gzip/inftrees.c
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gzip/inflate.c
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gzip/zconf.h
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gzip/inftrees.h
+END
+infblock.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gzip/infblock.c
+END
+infcodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gzip/infcodes.c
+END
+infblock.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gzip/infblock.h
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/airplay/modules/freetype/src/gzip/adler32.c
+END

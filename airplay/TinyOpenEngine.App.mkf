@@ -1,0 +1,17 @@
+includepaths
+{
+	"h"
+}
+files
+{
+	("src")
+	TinyOpenEngine.App.cpp
+	toeApp.cpp
+	("h")
+	toeApp.h
+	TinyOpenEngine.App.h
+}
+subprojects
+{
+	./TinyOpenEngine.mkf
+}

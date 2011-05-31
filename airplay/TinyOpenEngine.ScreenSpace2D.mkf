@@ -1,0 +1,22 @@
+includepaths
+{
+	"h"
+}
+files
+{
+	("src")
+	toe2DCircle.cpp
+	toe2DBox.cpp
+	toe2DScene.cpp
+	TinyOpenEngine.ScreenSpace2D.cpp
+
+	("h")
+	toe2DCircle.h
+	toe2DBox.h
+	toe2DScene.h
+	TinyOpenEngine.ScreenSpace2D.h
+}
+subprojects
+{
+	./TinyOpenEngine.mkf
+}

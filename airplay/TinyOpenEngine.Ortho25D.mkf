@@ -1,0 +1,14 @@
+includepaths
+{
+	"h"
+}
+files
+{
+	("src")
+
+	("h")
+}
+subprojects
+{
+	./TinyOpenEngine.mkf
+}

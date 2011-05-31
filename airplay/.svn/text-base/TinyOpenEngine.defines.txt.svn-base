@@ -1,0 +1,3 @@
+FT2_BUILD_LIBRARY	free type 2
+PUGIXML_NO_STL		pugixml with no STL
+PUGIXML_NO_EXCEPTIONS	pugixml with no exceptions

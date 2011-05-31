@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui
+END
+glui_spinner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_spinner.cpp
+END
+glui_treepanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_treepanel.cpp
+END
+arcball.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/arcball.cpp
+END
+glui_filebrowser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_filebrowser.cpp
+END
+glui_scrollbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_scrollbar.cpp
+END
+glui_node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_node.cpp
+END
+glui_edittext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_edittext.cpp
+END
+glui_statictext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_statictext.cpp
+END
+glui_bitmaps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_bitmaps.cpp
+END
+algebra3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/algebra3.cpp
+END
+glui_string.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_string.cpp
+END
+quaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/quaternion.h
+END
+glui_add_controls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_add_controls.cpp
+END
+glui_button.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_button.cpp
+END
+glui_control.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_control.cpp
+END
+glui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui.cpp
+END
+glui_internal_control.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_internal_control.h
+END
+glui_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_internal.h
+END
+glui_listbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_listbox.cpp
+END
+arcball.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/arcball.h
+END
+glui_commandline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_commandline.cpp
+END
+glui_checkbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_checkbox.cpp
+END
+glui_column.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_column.cpp
+END
+glui_textbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_textbox.cpp
+END
+glui_radio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_radio.cpp
+END
+glui_mouse_iaction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_mouse_iaction.cpp
+END
+glui_translation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_translation.cpp
+END
+glui_rotation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_rotation.cpp
+END
+glui_tree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_tree.cpp
+END
+glui_panel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_panel.cpp
+END
+glui_rollout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_rollout.cpp
+END
+glui_separator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_separator.cpp
+END
+glui_bitmap_img_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_bitmap_img_data.cpp
+END
+algebra3.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/algebra3.h
+END
+quaternion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/quaternion.cpp
+END
+glui_window.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_window.cpp
+END
+glui_list.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/glui/glui_list.cpp
+END

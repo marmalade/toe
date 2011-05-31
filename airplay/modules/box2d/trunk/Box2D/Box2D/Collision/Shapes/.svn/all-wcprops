@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Collision/Shapes
+END
+b2EdgeShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Collision/Shapes/b2EdgeShape.h
+END
+b2LoopShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Collision/Shapes/b2LoopShape.cpp
+END
+b2PolygonShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Collision/Shapes/b2PolygonShape.h
+END
+b2LoopShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Collision/Shapes/b2LoopShape.h
+END
+b2CircleShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Collision/Shapes/b2CircleShape.cpp
+END
+b2EdgeShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Collision/Shapes/b2EdgeShape.cpp
+END
+b2Shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Collision/Shapes/b2Shape.h
+END
+b2CircleShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Collision/Shapes/b2CircleShape.h
+END
+b2PolygonShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/15/trunk/airplay/modules/box2d/trunk/Box2D/Box2D/Collision/Shapes/b2PolygonShape.cpp
+END

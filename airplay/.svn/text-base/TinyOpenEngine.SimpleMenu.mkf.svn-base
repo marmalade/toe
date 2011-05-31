@@ -1,0 +1,58 @@
+includepaths
+{
+	"h"
+}
+files
+{
+	[src]
+	("src")
+	TinyOpenEngine.SimpleMenu.cpp
+	toeSimpleMenu.cpp
+	toeSimpleMenuBackground.cpp
+	toeSimpleMenuButton.cpp
+	toeSimpleMenuCanvas.cpp
+	toeSimpleMenuClickable.cpp
+	toeSimpleMenuGrid.cpp
+	toeSimpleMenuImage.cpp
+	toeSimpleMenuHttpImage.cpp
+	toeSimpleMenuImageCarousel.cpp
+	toeSimpleMenuInputComponent.cpp
+	toeSimpleMenuItem.cpp
+	toeSimpleMenuRoot.cpp
+	toeSimpleMenuRow.cpp
+	toeSimpleMenuSlider.cpp
+	toeSimpleMenuStyle.cpp
+	toeSimpleMenuStyleSheet.cpp
+	toeSimpleMenuTerminalItem.cpp
+	toeSimpleMenuTextBlock.cpp
+	toeSimpleMenuCompass.cpp
+
+	[h]
+	("h")
+	TinyOpenEngine.SimpleMenu.h
+	toeSimpleMenu.h 
+	toeSimpleMenuBackground.h 
+	toeSimpleMenuButton.h 
+	toeSimpleMenuClickable.h
+	toeSimpleMenuCanvas.h 
+	toeSimpleMenuGrid.h 
+	toeSimpleMenuHttpImage.h 
+	toeSimpleMenuImage.h 
+	toeSimpleMenuImageCarousel.h 
+	toeSimpleMenuInputComponent.h 
+	toeSimpleMenuItem.h 
+	toeSimpleMenuRoot.h 
+	toeSimpleMenuRow.h 
+	toeSimpleMenuSlider.h 
+	toeSimpleMenuStyle.h 
+	toeSimpleMenuStyleSheet.h 
+	toeSimpleMenuTerminalItem.h 
+	toeSimpleMenuTextBlock.h 
+	toeSimpleMenuCompass.h 
+}
+subprojects
+{
+	./TinyOpenEngine.mkf
+	./TinyOpenEngine.FreeType.mkf
+	./TinyOpenEngine.Net.mkf
+}
